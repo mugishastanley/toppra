@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20191108 
+FROM ubuntu:xenial-20210114 
 MAINTAINER Hung Pham <hungpham2511@gmail.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
